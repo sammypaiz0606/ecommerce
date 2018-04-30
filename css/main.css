@@ -2,5 +2,8 @@ body {
     text-align: center;
 }
 .headingTitle {
-    font-size:100px;
+    font-size:70px;
+}
+artSize {
+    margin:20px 0;
 }
